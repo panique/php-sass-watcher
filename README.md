@@ -114,3 +114,7 @@ If you think this script is useful and saves you a lot of work, then think about
 
 ## Statistics (by BitDeli)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/panique/php-sass-watcher/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
