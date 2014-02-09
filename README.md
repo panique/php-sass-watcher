@@ -64,13 +64,16 @@ $sass_watcher->watch("path/to/scss/", "path/to/css/", 1, "vendor/leafo/scssphp/s
 - [scssphp SASS compiler homepage](http://leafo.net/scssphp/)
 - [SASS at Wikipedia](http://en.wikipedia.org/wiki/Sass_%28stylesheet_language%29)
 
-## Check my other projects
+## Connected projects
+
+If you like, check my other projects:
 
 #### php-mvc
 
 A super-reduced and naked bare-bone application. Not a framework, just a modern application skeleton.
 
 http://www.php-mvc.net
+
 https://github.com/panique/php-mvc
 
 #### php-login
