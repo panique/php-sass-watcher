@@ -36,9 +36,9 @@ The compiler uses the SCSS syntax, which is recommended and mostly used. The old
    list below.
 2. Make sure PHP can write into your CSS folder.
 3. Run the script:
-3.1 Simple way, from browser, just enter the URL to scss-compiler.php: http://127.0.0.1/folder/php-sass-watcher.php
+3.1. Simple way, from browser, just enter the URL to scss-compiler.php: http://127.0.0.1/folder/php-sass-watcher.php
     The script will run forever, even if you close the browser window.
-3.2 PHPStorm users can run the script by right-clicking the file and selecting "Run php-sass-watcher.php".
+3.2. PHPStorm users can run the script by right-clicking the file and selecting "Run php-sass-watcher.php".
 4. To stop the script, stop/restart your Apache/Nginx/etc. or press the red "stop process button in PHPStorm.
 
 ## The parameters:
