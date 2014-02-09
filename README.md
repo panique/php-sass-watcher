@@ -32,8 +32,9 @@ The compiler uses the SCSS syntax, which is recommended and mostly used. The old
 
 ## How to install & use this tool
 
-1. Edit $sass_watcher->watch( ... ); in the last line of this file and put your stuff in here, see the parameter
-   list below.
+1. Download scssphp from http://leafo.net/scssphp and put it somewhere.
+2. Edit $sass_watcher->watch( ... ); in the last line of php-sass-watcher.php and put the path of your scss folder,
+   your css folder and the location of the scssphp file in. Ssee the parameter list below.
 2. Make sure PHP can write into your CSS folder.
 3. Run the script: Simple way, from browser, just enter the URL to scss-compiler.php:
    http://127.0.0.1/folder/php-sass-watcher.php
