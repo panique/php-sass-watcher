@@ -41,6 +41,9 @@ The compiler uses the SCSS syntax, which is recommended and mostly used. The old
    PHPStorm users can run the script by right-clicking the file and selecting "Run php-sass-watcher.php".
 4. To stop the script, stop/restart your Apache/Nginx/etc. or press the red "stop process button in PHPStorm.
 
+*Please note: Some IDEs / code editors don't show new/updated files instantly. Refresh/reload the files/folders to see
+the changes.*
+
 ## The parameters:
 
 ```php
