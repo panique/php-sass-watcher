@@ -75,6 +75,8 @@ class SassWatcher
         // load the compiler script (scssphp), more here: http://www.leafo.net/scssphp
         require $scssphp_script_path;
         $scss_compiler = new scssc();
+        // set the path to your to-be-imported mixins. please note: custom paths are coming up on future releases!
+        $scss_compiler->setImportPaths($scss_folder);
         // set css formatting (normal, nested or minimized), @see http://leafo.net/scssphp/docs/#output_formatting
         $scss_compiler->setFormatter($format_style);
 
