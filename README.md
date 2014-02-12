@@ -59,6 +59,11 @@ $sass_watcher->watch("path/to/scss/", "path/to/css/", 1, "vendor/leafo/scssphp/s
    Download the script manually from http://leafo.net/scssphp/ or "require" it via Composer: `"leafo/scssphp": "0.0.9"`
 5. optional: how the .css output should look like. See http://leafo.net/scssphp/docs/#output_formatting for more.
 
+## How to work with mixins
+
+Currently your mixin files need to be in exactly the same folder like your other .scss, then the @import will work
+perfectly. Custom mixing folders are on my todo-list.
+
 ## Links
 
 - [Official SASS homepage](http://sass-lang.com/)
